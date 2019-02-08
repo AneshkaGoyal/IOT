@@ -19,6 +19,7 @@
         <receiver android:name=".BroadCast">
 
         </receiver>
+        <service android:name=".YourService"></service>
     </application>
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
